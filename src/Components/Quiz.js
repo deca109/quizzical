@@ -3,7 +3,7 @@ import Confetti from 'react-confetti';
 
 
 export default function Quiz({amount,addQuestions,addCorrect}) {
-  const apiUrl = `https://opentdb.com/api.php?amount=${amount}&difficulty=easy&type=multiple`;
+  const apiUrl = `https://opentdb.com/api.php?amount=${amount}&type=multiple`;
   const [trivia, setTrivia] = useState([]);
   const [userAns, setUserAns] = useState(Array(amount).fill(""));
   const [shuffledOptions, setShuffledOptions] = useState([]);
