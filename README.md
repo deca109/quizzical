@@ -1,3 +1,11 @@
+# Project Demo
+
+![Quizzical - Brave 20-05-2024 03_31_05](https://github.com/deca109/quizzical/assets/118815246/42010735-5ed3-45b5-9f06-8281c5828d79)
+
+![Quizzical - Brave 20-05-2024 03_31_18](https://github.com/deca109/quizzical/assets/118815246/08306eb1-fb2e-4e6b-82bc-ffecd06cb28e)
+
+https://github.com/deca109/quizzical/assets/118815246/9780936d-b2d8-4fac-afeb-a90256780b08
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
