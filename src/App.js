@@ -1,4 +1,4 @@
-import { React, useState, useEffect, useSyncExternalStore } from "react";
+import { React, useState, useEffect } from "react";
 import Start from "./Components/Start";
 import Quiz from "./Components/Quiz";
 
